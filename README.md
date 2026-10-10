@@ -1,5 +1,5 @@
 #  💫 About Me:
-Student At M.S.Engineering college<br>Banglore,karanataka<br>I'M fresher<br>I'M currently learning cybersecurity
+Student At M.S.Engineering college<br>Banglore,karanataka<br>I'M fresher<br>I'M currently learning web Development
 
 #   🌐 Socials :
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white/(https://www.linkedin.com/in/spandana-m-bhagavati-498771380))
