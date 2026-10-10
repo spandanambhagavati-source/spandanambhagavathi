@@ -2,6 +2,8 @@
 Student At M.S.Engineering college<br>Banglore,karanataka<br>I'M fresher<br>I'M currently learning cybersecurity
 
 #   🌐 Socials :
+[![LinkedIn] (https://www.linkedin.com/in/spandana-m-bhagavati-498771380)]
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spandanambhagavati@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/spandana_m_)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)  
